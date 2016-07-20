@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Async ListView</string>
+
+    <array name="images_array">
+        <item>http://www.desicomments.com/dc3/10/355719/355719.jpg</item>
+        <item>http://www.desicomments.com/dc3/10/354553/354553.jpg</item>
+        <item>http://www.desicomments.com/dc3/10/354562/354562.jpg</item>
+        <item>http://www.desicomments.com/dc3/10/351035/351035.jpg</item>
+        <item>http://www.desicomments.com/dc3/10/349982/349982.jpg</item>
+        <item>http://www.desicomments.com/dc3/10/350004/350004.jpg</item>
+        <item>http://www.desicomments.com/dc3/10/349964/349964.jpg</item>
+        <item>http://www.desicomments.com/dc3/09/336611/336611.png</item>
+        <item>http://www.desibucket.com/wp-content/uploads/2016/05/Orchids-Graphic-Flower1401.jpg</item>
+        <item>http://www.desibucket.com/wp-content/uploads/2016/06/Arborvitae-Tree-Image-tp1224-1.jpg</item>
+        <item>http://www.desibucket.com/wp-content/uploads/2016/06/Avocado-Flowers-tp1226-1.jpg</item>
+        <item>http://www.desibucket.com/wp-content/uploads/2016/06/Avocado-Tree-tp1230-1.jpg</item>
+        <item>http://www.desibucket.com/wp-content/uploads/2016/06/Baby-Corns-on-Plants-tp1231-1.jpg</item>
+        <item>http://www.desibucket.com/wp-content/uploads/2016/06/Basil-Herb-Plant-in-Pot-tp1234-1.jpg</item>
+    </array>
+
+    <array name="headline_array">
+        <item>Beautiful Landscape</item>
+        <item>Wonderful View Of Nature</item>
+        <item>Beautiful Natural</item>
+        <item>Beautiful High ways View</item>
+        <item>Amazing Nature</item>
+        <item>Amazing Track</item>
+        <item>Forest amazing</item>
+        <item>Water falls</item>
+        <item>Beautiful Landscape</item>
+        <item>Wonderful View Of Nature</item>
+        <item>Beautiful Natural</item>
+        <item>Beautiful High ways View</item>
+        <item>Amazing Nature</item>
+        <item>Amazing Track</item>
+    </array>
+</resources>
